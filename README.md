@@ -1,4 +1,4 @@
-# Typescript Challenge
+# Vehicle Management CLI Application
 
 <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License Badge">
 
