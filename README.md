@@ -12,6 +12,7 @@ This is a command-line interface (CLI) application for managing vehicles, includ
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Acknowledgements](#acknowledgements)
 
 ## Installation
 Navigate to the project directory or repo. Run 'npm install' from command line.
@@ -35,3 +36,7 @@ To ensure code integrity, be sure to run all tests prior to submitting any chang
 For any questions, please contact me via:
 - GitHub: [lisaj5472](https://github.com/lisaj5472)
 - Email: lisaj5472@gmail.com
+
+## Acknowledgements
+University of Denver Coding Boot Camp educational team for providing foundational code and design elements as part of the course curriculum.​
+GitHub Pages for hosting the project.
