@@ -27,10 +27,7 @@ Run application from command line using 'npm start'.
 This project is licensed under the MIT license.
 
 ## Contributing
-To contribute, fork the repository, create a new branch, make your changes following the existing coding style, and submit a pull request. Please ensure your updates do not break existing functionality and include tests if applicable.
-
-## Tests
-To ensure code integrity, be sure to run all tests prior to submitting any changes.
+This project was developed as part of an educational program, and contributions are not expected. However, if you have suggestions or improvements, please feel free to fork the repository and submit a pull request.​
 
 ## Questions
 For any questions, please contact me via:
